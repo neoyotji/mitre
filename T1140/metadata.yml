@@ -1,0 +1,21 @@
+id: T1204.004
+name: ClickFix
+tactic:
+  - Execution
+
+platforms:
+  - Windows
+
+author: Sena Uysal
+
+created: 2026-07-01
+
+mitre:
+  url: https://attack.mitre.org/techniques/T1204/004/
+
+severity: Medium
+
+tags:
+  - malware
+  - reverse-engineering
+  - poc
